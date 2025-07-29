@@ -1,0 +1,12 @@
+[project]
+name = "fifa"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "datetime",
+    "pandas",
+    "streamlit>=1.47.1",
+    "webbrowser",
+]
